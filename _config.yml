@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Wikum Weerakutti"
+author: "Wikum Weerakutti"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b><br> © 2023 Wikum Weerakutti, unless otherwise noted."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:wikum@linuxdeveloper.space"}
+  - {title: Github, icon: github, url: "https://github.com/wikumChamith"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/wikum-weerakutti-a455261a6/" }
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
