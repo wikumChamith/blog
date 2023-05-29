@@ -12,7 +12,7 @@ First,  I participated in the orientation session for GSOC 2023 with OpenMRS, an
 
 ## First meeting with Mentors
 
-The first meeting I had with my mentors, Daniel and Joshua, was very interesting. We discussed our plan for proceeding with the project. During the meeting, the mentors presented me with a new challenge: creating a feature that enables developers to deploy OpenMRS O3 using OpenMRS SDK.
+The first meeting I had with my mentors, [Daniel](https://talk.openmrs.org/u/dkayiwa) and [Joshua](https://talk.openmrs.org/u/jnsereko), was very interesting. We discussed our plan for proceeding with the project. During the meeting, the mentors presented me with a new challenge: creating a feature that enables developers to deploy OpenMRS O3 using OpenMRS SDK.
 
 ## Building the O3
 
