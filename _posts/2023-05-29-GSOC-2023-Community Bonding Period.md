@@ -29,6 +29,6 @@ Before I began coding this feature, I needed to manually build the O3 to compreh
 
 ## Future
 
-As the coding period begins my main objective is to implement this feature. I already created a draft PR for this. I hope that I will be able to fully implement this with the support of my mentors.
+As the coding period begins my main objective is to implement this feature. I already created a draft PR for this. I hope that I will be able to quickly implement this with the support of my mentors.
 
 
