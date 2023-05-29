@@ -5,8 +5,6 @@ layout: post
 
 I am thrilled to announce that I have been selected to participate in Google Summer of Code (GSOC) 2023, representing OpenMRS! This incredible opportunity is beyond exciting for me. 
 
-I had the privilege of participating in the Orientation Session for GSOC 2023 with OpenMRS, and let me tell you, it was absolutely fantastic! This session provided an incredible platform for me to meet and engage with my mentors and fellow selected contributors. The atmosphere was brimming with enthusiasm and passion for open-source development. The mentors shared invaluable insights, providing us with comprehensive guidelines to ensure the success of our individual projects.
-
 
 ## Orientation Session
 
