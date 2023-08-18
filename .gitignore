@@ -6,3 +6,4 @@ Gemfile.lock
 _site
 *.gem
 /.idea/sonarlint/issuestore/index.pb
+/.idea/sonarlint/securityhotspotstore/6/3/63d447c1f9ec368e8054404899da708556fdecab
