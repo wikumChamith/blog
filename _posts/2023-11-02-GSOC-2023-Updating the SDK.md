@@ -25,6 +25,7 @@ tasks by introducing support for OpenMRS 3 and enhancing the overall functionali
 
 ## Objectives
 
+* Enabling users to set up OpenMRS 3 with the SDK.
 * Spin-off a version of the SDK to support OpenMRS 1.x releases based on Java 7: COMPLETED
 * Revamp the SDK to take advantage of Java 8 features
   * Use lambda expressions: PR CREATED
@@ -37,7 +38,6 @@ tasks by introducing support for OpenMRS 3 and enhancing the overall functionali
 
 Additionally, I've been actively involved in the following tasks:
 
-* Enabling users to set up OpenMRS 3 with the SDK.
 * Optimizing SDK Cache Management.
 * Implementing quality-of-life improvements.
 * Resolving bug issues, and more.
