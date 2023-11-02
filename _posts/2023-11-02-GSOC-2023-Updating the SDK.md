@@ -44,13 +44,8 @@ Additionally, I've been actively involved in the following tasks:
 
 ## Contributions
 
-Here are all the Issues I worked on for this project:
-
-<https://issues.openmrs.org/browse/SDK-307?jql=project%20%3D%20SDK%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20assignee%20ASC%2C%20created%20ASC>
-
-Here are all the pull results I created for this project: 
-
-<https://github.com/openmrs/openmrs-sdk/pulls?page=1&q=is%3Apr+author%3A%40me>
+* [JIRA issues](https://issues.openmrs.org/browse/SDK-307?jql=project%20%3D%20SDK%20AND%20assignee%20in%20(currentUser())%20ORDER%20BY%20assignee%20ASC%2C%20created%20ASC)
+* [Pull Requests](https://github.com/openmrs/openmrs-sdk/pulls?page=1&q=is%3Apr+author%3A%40me)
 
 ## Weekly Blog Posts
 
