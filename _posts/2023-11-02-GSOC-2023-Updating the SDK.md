@@ -18,10 +18,10 @@ layout: post
 
 ## Overview
 
-This project has successfully enhanced the OpenMRS SDK to cater to the evolving needs of OpenMRS development.
-The project objectives included creating a version of the SDK to support OpenMRS 1.x releases based on Java 7, upgrading the SDK to leverage Java 8 features, and enhancing the documentation system for all plugins.
-Additionally, the project has reworked the build-distro and setup commands to allow per-version customizations, enabling the creation of Docker images based on different Java versions depending on the OpenMRS version.
-These accomplishments ensure the updated SDK provides robust support for newer OpenMRS versions while retaining a legacy interface for existing features
+The primary objective of this project was
+to advance the OpenMRS SDK to meet the evolving requirements of OpenMRS development.
+The project primarily aimed to simplify developers'
+tasks by introducing support for OpenMRS 3 and enhancing the overall functionality of the SDK.
 
 ## Objectives
 
