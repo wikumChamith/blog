@@ -14,4 +14,7 @@ I am passionate about
 
 I have experience working in Java, C#, and Kotlin on both personal and commercial projects.
 
+## Contact Me
+
+Email: wikum@linuxdeveloper.space
 
